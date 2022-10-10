@@ -64,7 +64,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="Nestjs" **alt="Nestjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" **alt="Nextjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" **alt="Ansible" width="40" height="40"/>&nbsp;
-    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" title="CnetOS" **alt="CentOS" width="40" height="40"/>&nbsp;
    
   
 </div>
