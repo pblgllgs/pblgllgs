@@ -61,7 +61,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" **alt="Tomcat" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="Yarn" **alt="Yarn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="Nestjs" **alt="Nestjs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nestjs" **alt="Nestjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" **alt="Nextjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" **alt="Ansible" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" title="CentOS" **alt="CentOS" width="40" height="40"/>&nbsp;
